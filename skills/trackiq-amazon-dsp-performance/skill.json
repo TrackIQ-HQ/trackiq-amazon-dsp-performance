@@ -4,7 +4,7 @@
   "category": "advertising",
   "version": "1.0.0",
   "updated": "2026-09-18",
-  "summary": "Breaks Amazon DSP down by audience, creative, inventory source, technology and geography to show which segments actually recruit customers and which burn impressions. Ranks on new-to-brand purchases, detail page views and cost per action rather than ROAS, because DSP revenue is not returned at these dimensions. Use when the user asks about DSP performance, which audiences work, creative performanc",
+  "summary": "Breaks Amazon DSP down by audience, creative, inventory source, technology and geography to show which segments actually recruit customers and which burn impressions. Ranks on new-to-brand purchases, detail page views and cost per action rather than ROAS, because DSP revenue is not returned at these dimensions.",
   "changelog": "First public release.",
   "requires": {
     "mcp": [
