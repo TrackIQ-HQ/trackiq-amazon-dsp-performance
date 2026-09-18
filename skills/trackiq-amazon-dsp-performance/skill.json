@@ -1,0 +1,34 @@
+{
+  "name": "trackiq-amazon-dsp-performance",
+  "title": "TrackIQ: Amazon DSP Audience and Creative Performance",
+  "category": "advertising",
+  "version": "1.0.0",
+  "updated": "2026-09-18",
+  "summary": "Breaks Amazon DSP down by audience, creative, inventory source, technology and geography to show which segments actually recruit customers and which burn impressions. Ranks on new-to-brand purchases, detail page views and cost per action rather than ROAS, because DSP revenue is not returned at these dimensions. Use when the user asks about DSP performance, which audiences work, creative performanc",
+  "changelog": "First public release.",
+  "requires": {
+    "mcp": [
+      "trackiq"
+    ],
+    "tools": [
+      "get_dsp_performance",
+      "list_marketplaces"
+    ],
+    "filesystem": false,
+    "network": false,
+    "third_party_apis": []
+  },
+  "delivery": {
+    "methods": [
+      "in-chat",
+      "file",
+      "slack",
+      "n8n",
+      "email"
+    ],
+    "default": "in-chat",
+    "note": "in-chat always works and is the fallback. Outward sends confirm first."
+  },
+  "homepage": "https://trackiq.com/skills/trackiq-amazon-dsp-performance",
+  "license": "MIT"
+}
