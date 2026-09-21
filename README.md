@@ -4,7 +4,7 @@
 
 **Which audience segments convert, which creatives carry them, and which supply sources waste impressions.**
 
-Part of **Amazon Advertising** in the
+Part of **Amazon AMC & DSP** in the
 [TrackIQ skills catalog](https://github.com/TrackIQ-HQ/amazon-seller-skills).
 
 Built as an [Agent Skill](https://code.claude.com/docs/en/skills). Runs in

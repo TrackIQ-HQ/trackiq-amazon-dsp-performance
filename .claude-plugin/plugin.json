@@ -1,6 +1,6 @@
 {
   "name": "trackiq-amazon-dsp-performance",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "TrackIQ: Amazon DSP Audience and Creative Performance \u2014 an Agent Skill for Amazon sellers, built on TrackIQ MCP data.",
   "author": {
     "name": "TrackIQ",
