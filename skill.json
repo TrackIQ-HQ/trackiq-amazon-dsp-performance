@@ -2,8 +2,8 @@
   "name": "trackiq-amazon-dsp-performance",
   "title": "TrackIQ: Amazon DSP Audience and Creative Performance",
   "category": "amc",
-  "version": "1.0.1",
-  "updated": "2026-09-21",
+  "version": "1.0.2",
+  "updated": "2026-10-06",
   "summary": "Breaks Amazon DSP down by audience, creative, inventory source, technology and geography to show which segments actually recruit customers and which burn impressions. Ranks on new-to-brand purchases, detail page views and cost per action rather than ROAS, because DSP revenue is not returned at these dimensions.",
   "changelog": "Moves to the new Amazon AMC & DSP category. No change to what the skill does.",
   "requires": {
